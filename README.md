@@ -1,16 +1,12 @@
-# Introduction
-This repository is about responsive LogIn, SignUp page. 
-
+# Django + React Project 
+This project combines the power of Django and React to deliver a robust web application with user authentication features. From user registration and sign-in to log-out and password reset, this project offers a comprehensive solution for managing user accounts securely.
 
 
 **Tech Stacks Used -** 
 
 
-
- &emsp;**1. React JS, Hooks**
-  
-   &emsp;**2. Django**
-  
+&emsp;**2. Django**
+ &emsp;**1. React JS**
    &emsp;**3. Sqlite3**
   
    &emsp;**4. Redux**
