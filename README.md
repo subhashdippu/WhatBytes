@@ -14,14 +14,14 @@ This project combines the power of Django and React to deliver a robust web appl
 
 1. Clone the repository: git clone https://github.com/your-username/your-repo.git
 2. Navigate to the Django backend: cd django
-Create a virtual environment: python -m venv venv
-Activate the virtual environment: source venv/bin/activate (Linux) or venv\Scripts\activate (Windows)
-Install Django dependencies: pip install -r requirements.txt
-Apply migrations: python manage.py migrate
-Run the Django development server: python manage.py runserver
-Navigate to the React frontend: cd ../react
-Install React dependencies: npm install
-Run the React development server: npm start
+3. Create a virtual environment: python -m venv venv
+4. Activate the virtual environment: source venv/bin/activate (Linux) or venv\Scripts\activate (Windows)
+5. Install Django dependencies: pip install -r requirements.txt
+6. Apply migrations: python manage.py migrate
+7. Run the Django development server: python manage.py runserver
+8. Navigate to the React frontend: cd ../react
+9. Install React dependencies: npm install
+10. Run the React development server: npm start
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
