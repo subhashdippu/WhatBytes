@@ -22,7 +22,9 @@ This project combines the power of Django and React to deliver a robust web appl
 8. Navigate to the React frontend: cd ../react
 9. Install React dependencies: npm install
 10. Run the React development server: npm start
-# Getting Started with Create React App
+
+    
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -38,10 +40,4 @@ Open http://localhost:3000 to view it in the browser.
 The page will reload if you make edits.
 You will also see any lint errors in the console.
 
-## npm build
 
-Builds the app for production to the build folder.
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.
-Your app is ready to be deployed!
