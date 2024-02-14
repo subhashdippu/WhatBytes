@@ -12,8 +12,8 @@ This project combines the power of Django and React to deliver a robust web appl
    &emsp;**4. Redux**
 ## Setup Instructions
 
-Clone the repository: git clone https://github.com/your-username/your-repo.git
-Navigate to the Django backend: cd django
+1. Clone the repository: git clone https://github.com/your-username/your-repo.git
+2. Navigate to the Django backend: cd django
 Create a virtual environment: python -m venv venv
 Activate the virtual environment: source venv/bin/activate (Linux) or venv\Scripts\activate (Windows)
 Install Django dependencies: pip install -r requirements.txt
